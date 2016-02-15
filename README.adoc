@@ -1,0 +1,6 @@
+= Berk
+Severen Redwood <severen@shrike.me>
+
+A Gtk+3 and Vte3 based terminal emulator, designed for Gnome Shell.
+
+*Currently under development.*
