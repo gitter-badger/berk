@@ -4,3 +4,8 @@ Severen Redwood <severen@shrike.me>
 A Gtk+3 and Vte3 based terminal emulator, designed for Gnome Shell.
 
 *Currently under development.*
+
+== Building
+
+To build Berk run `script/configure` and `script/build`. Run the compiled
+binary with `./target/berk`.
