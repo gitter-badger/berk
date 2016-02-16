@@ -12,6 +12,6 @@ buildDir = 'target/build'
 if not os.path.exists(buildDir):
     print('Please run script/configure first!')
     sys.exit(1)
-else:
-    os.chdir(buildDir)
-    os.system('make -j{}'.format(multiprocessing.cpu_count()))
+
+os.chdir(buildDir)
+os.system('make -j{}'.format(multiprocessing.cpu_count()))
