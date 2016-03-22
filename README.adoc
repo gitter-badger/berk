@@ -1,4 +1,6 @@
 = Berk
+
+image:https://badges.gitter.im/SShrike/berk.svg[link="https://gitter.im/SShrike/berk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 Severen Redwood <severen@shrike.me>
 
 A Gtk+3 and Vte3 based terminal emulator, designed for Gnome Shell.
